@@ -6,7 +6,6 @@
 ## Table-of-Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [Usage](#usage)
   * [How to Contribute](#how-to-contribute)
   * [Questions](#questions)
   
@@ -19,16 +18,12 @@
   * npm i install
   * npm i express
   * npm i mongoose
-  
+
   Lastly:
   * npm start
 
-  ## [Usage](#table-of-contents)
-  Once installation is finished, simply run 'node index.js' in the terminal and answer the following prompts.
-
   ## [How to Contribute](#table-of-contents)
-  No contributions are being required at this time.
-
+  Made By David Shaw
 
   ## [Questions](#table-of-contents)
   * Contact Me at:
