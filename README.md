@@ -1,7 +1,7 @@
 # PWA Budget Tracker
 
 ## Heroku
-[Heroku Link](https://dashboard.heroku.com/apps/dudley-hockey-47391)
+[Heroku Link](https://dudley-hockey-47391.herokuapp.com/)
 
 ## Table-of-Contents
   * [Description](#description)
@@ -19,6 +19,7 @@
   * npm i install
   * npm i express
   * npm i mongoose
+  
   Lastly:
   * npm start
 
